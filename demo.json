@@ -1,0 +1,32 @@
+{
+    "updated": 1642693448224,
+    "country": "Nepal",
+    "countryInfo": {
+        "_id": 524,
+        "iso2": "NP",
+        "iso3": "NPL",
+        "lat": 28,
+        "long": 84,
+        "flag": "https://disease.sh/assets/img/flags/np.png"
+    },
+    "cases": 887769,
+    "todayCases": 10052,
+    "deaths": 11632,
+    "todayDeaths": 4,
+    "recovered": 818809,
+    "todayRecovered": 649,
+    "active": 57328,
+    "critical": 100,
+    "casesPerOneMillion": 29644,
+    "deathsPerOneMillion": 388,
+    "tests": 5075205,
+    "testsPerOneMillion": 169469,
+    "population": 29947775,
+    "continent": "Asia",
+    "oneCasePerPeople": 34,
+    "oneDeathPerPeople": 2575,
+    "oneTestPerPeople": 6,
+    "activePerOneMillion": 1914.27,
+    "recoveredPerOneMillion": 27341.23,
+    "criticalPerOneMillion": 3.34
+}
